@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋 , I'm Fatma</h1>
-<p align="center">
 
-</p>
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding!;I'm+learning+C%23+and+AI!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding!)
+  
+</div>
 
 
 **Fatmaa35/Fatmaa35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
