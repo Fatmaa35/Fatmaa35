@@ -33,4 +33,4 @@
 
 ## ⚡ Fun Fact
 
-I enjoy solving problems with data , and writing clean code .
+I enjoy solving problems with data  and writing clean code .
