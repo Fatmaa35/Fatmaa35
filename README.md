@@ -10,7 +10,7 @@
 
 - 🎓 Computer Engineering Student
 - 📊 Focused on **Data Analysis & Data Science**
-- 🐍 Working with **Python, SQL, and data-driven projects**
+- 🐍 Working with **Python, SQL and data-driven projects**
 - 📈 Interested in **real-world data, anomaly detection and analytics**
 
 ---
