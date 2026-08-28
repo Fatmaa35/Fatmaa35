@@ -1,74 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=Hi%20there%20👋%20I'm%20Fatma&fontSize=40&fontColor=ffffff&fontAlignY=40" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=190&section=header&text=Hi%20there,%20I'm%20Fatma%20👋&fontSize=40&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+  width="100%"
+  alt="Header"
+/>
 
-### Computer Engineering Student · Data Analysis & Data Science
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Data+Analysis+%26+Data+Science;Learning%2C+Building%2C+Improving"
+    alt="Typing animation"
+  />
+</a>
 
-<p>
-  <a href="https://github.com/Fatmaa35">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fatma-kaplan-462499313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://fatmatech.com.tr/">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/Fatmaa35">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/fatma-kaplan-462499313">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://fatmatech.com.tr/">
+  <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://medium.com/@fatmakaplan">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-🎓 Computer Engineering student interested in **Data Analysis and Data Science**.
+I am a **Computer Engineering student** focused on **Data Analysis and Data Science**.
 
-🐍 I work with **Python and SQL** to explore, clean and analyze data.
-
-📊 Interested in **data-driven projects, analytics and machine learning**.
-
-🚀 Currently learning, building and turning ideas into projects.
-
----
-
-## Skills
-
-**Languages & Databases**
-
-`Python` · `SQL` · `Oracle` · `MySQL`
-
-**Data & Analytics**
-
-`Pandas` · `NumPy` · `Data Analysis` · `Data Visualization`
-
-**Tools**
-
-`Git` · `GitHub` · `VS Code`
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"/>
-</div>
+- 🐍 I use **Python and SQL** to clean, explore, and analyze data.
+- 📊 I enjoy transforming complex datasets into clear and meaningful insights.
+- 🤖 I am developing my knowledge of **machine learning and artificial intelligence**.
+- 🌱 I am interested in projects based on environmental and real-world data.
+- 🚀 I learn by building practical projects and continuously improving them.
 
 ---
 
-## What I Work On
-
-* 📊 Data Analysis & Data Science
-* 🤖 AI & Machine Learning
-* 🌊 Environmental & Real-World Data
-* 💻 Software Projects
-
----
-
-## Connect
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/fatma-kaplan-462499313">LinkedIn</a> · <a href="https://fatmatech.com.tr/">Portfolio</a> · <a href="https://github.com/Fatmaa35">GitHub</a> · <a href="https://medium.com/@fatmakaplan">Medium</a>
+<img
+  src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark"
+  alt="Technology icons"
+/>
 
 <br><br>
 
-**Thanks for visiting! 👋**
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-6366F1?style=flat-square&logo=plotly&logoColor=white" alt="Data Visualization"/>
 
 </div>
+
+---
+
+## 🔎 Areas of Interest
+
+<table>
+  <tr>
+    <td>📊 Data Analysis</td>
+    <td>🤖 Machine Learning</td>
+  </tr>
+  <tr>
+    <td>📈 Data Visualization</td>
+    <td>🌊 Environmental Data</td>
+  </tr>
+  <tr>
+    <td>🗄️ Database Technologies</td>
+    <td>💻 Software Development</td>
+  </tr>
+</table>
+
+---
+
+## 📌 Current Focus
+
+```python
+fatma = {
+    "education": "Computer Engineering",
+    "focus": ["Data Analysis", "Data Science"],
+    "technologies": ["Python", "SQL", "Pandas", "NumPy"],
+    "currently_learning": [
+        "Machine Learning",
+        "Data Visualization",
+        "Database Technologies"
+    ],
+    "goal": "Turn real-world data into useful insights"
+}
