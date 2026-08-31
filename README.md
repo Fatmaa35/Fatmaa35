@@ -36,7 +36,7 @@
 
 I am a **Computer Engineering student** focused on **Data Analysis and Data Science**.
 
-- 🐍 I use **Python and SQL** to clean, explore, and analyze data.
+- 🐍 I use **Python and SQL** to clean, explore and analyze data.
 - 📊 I enjoy transforming complex datasets into clear and meaningful insights.
 - 🤖 I am developing my knowledge of **machine learning and artificial intelligence**.
 - 🌱 I am interested in projects based on environmental and real-world data.
